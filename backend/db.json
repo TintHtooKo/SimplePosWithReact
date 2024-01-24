@@ -1,0 +1,40 @@
+{
+    "product": [
+        {
+            "id": 111,
+            "name": "orange",
+            "price": "2",
+            "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_1280.jpg"
+        },
+        {
+            "id": 112,
+            "name": "Milk",
+            "price": "3",
+            "image": "https://cdn.britannica.com/77/200377-050-4326767F/milk-splashing-glass.jpg"
+        },
+        {
+            "id": 113,
+            "name": "Ice Cream",
+            "price": "3",
+            "image": "https://blog.thermoworks.com/wp-content/uploads/2021/06/Ice_Cream_Compressed-43.jpg"
+        },
+        {
+            "id": 114,
+            "name": "Banana",
+            "price": "2",
+            "image": "https://th-thumbnailer.cdn-si-edu.com/4Nq8HbTKgX6djk07DqHqRsRuFq0=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/d5/24/d5243019-e0fc-4b3c-8cdb-48e22f38bff2/istock-183380744.jpg"
+        },
+        {
+            "id": 115,
+            "name": "Apple",
+            "price": "2",
+            "image": "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg"
+        },
+        {
+            "id": 116,
+            "name": "Strawberry",
+            "price": "8",
+            "image": "https://www.health.com/thmb/zvfL1rCWAPg3XzidfAqURuCmttk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberries-c5f434e7729e47c5b32c0deaa029386c.jpg"
+        }
+    ]
+}
